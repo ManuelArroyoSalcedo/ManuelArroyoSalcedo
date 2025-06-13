@@ -3,9 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelarroyosalcedo&label=Profile%20views&color=0e75b6&style=flat" alt="manuelarroyosalcedo" /> </p>
 
-- 🌱 I’m currently learning **Git, Docker**
+## 📘 Repositorio principal
 
-<h3 align="left">Connect with me:</h3>
+Este proyecto está disponible públicamente en GitHub:
+
+🔗 [https://github.com/ManuelArroyoSalcedo/YoInformatico](https://github.com/ManuelArroyoSalcedo/YoInformatico)
+
+[![Ver en GitHub](https://img.shields.io/badge/GitHub-YoInformatico-blue?logo=github)](https://github.com/ManuelArroyoSalcedo/YoInformatico)
+
+
+
+<br>
+<br>
+
 <p align="left">
 </p>
 
