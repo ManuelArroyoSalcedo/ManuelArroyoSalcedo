@@ -15,6 +15,14 @@ Este proyecto está disponible públicamente en GitHub:
 
 <br>
 <br>
+<p>En el siguiente enlace podrás acceder a mi canal de YouTube, donde encontrarás vídeos sobre temas diversos como la conversión de números entre distintas bases, comandos de Linux o algoritmos de planificación de procesos (¡no te pierdas el vídeo sobre Round Robin!).</p>
+<p>🔗 https://youtube.com/channel/UCfZuFaGywYbr7W0wF5Go6oQ/</p>
+
+[![Ver en YouTube](https://img.shields.io/badge/YouTube-Canal-red?logo=youtube)](https://www.youtube.com/channel/UCfZuFaGywYbr7W0wF5Go6oQ)
+
+
+<br>
+<br>
 
 <p align="left">
 </p>
